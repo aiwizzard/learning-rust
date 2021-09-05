@@ -1,2 +1,2 @@
 # learning-rust
-For learning RUST programming language
+Learning RUST programming language as described in https://doc.rust-lang.org/book/
