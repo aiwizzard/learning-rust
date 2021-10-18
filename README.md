@@ -1,2 +1,2 @@
 # learning-rust
-Learning RUST programming language as described in https://doc.rust-lang.org/book/
+Learning RUST programming language with the youtube video from Traversy Media.
